@@ -1,1 +1,3 @@
-# video-sharing-site
+# PlayTide
+
+video sharing website
